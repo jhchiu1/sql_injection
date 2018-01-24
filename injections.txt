@@ -1,0 +1,10 @@
+Lab 3
+
+Part 3
+
+Julie Chiu
+
+'or '1'='1
+'or password like 'k%
+
+Both give 'incorrect password' as a response
